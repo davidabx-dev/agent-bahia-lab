@@ -1,6 +1,6 @@
 # 🧞‍♂️ Agent Bahia Lab: RAG, Web Search & SQL Agents
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-Orchestration-green)
 ![Groq](https://img.shields.io/badge/Groq-Llama3-orange)
 ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
@@ -50,3 +50,4 @@ O projeto consiste em um ecossistema com 3 agentes especializados que rodam loca
 ```bash
 git clone [https://github.com/davidabx-dev/agent-bahia-lab.git](https://github.com/davidabx-dev/agent-bahia-lab.git)
 cd agent-bahia-lab
+
