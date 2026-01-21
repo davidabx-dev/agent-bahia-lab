@@ -1,0 +1,12 @@
+--- DOCUMENTO CONFIDENCIAL GRUPO CASAS BAHIA ---
+Projeto: Agente Bahia (Genie Databricks)
+Data: Janeiro/2026
+
+1. Política de Home Office:
+Para a equipe de Dados LLM, o trabalho é 100% remoto. Porém, toda sexta-feira é obrigatório o uso de uma camiseta azul nas videochamadas.
+
+2. Sobre o Databricks Genie:
+Nossa implementação do Genie usa o protocolo MCP (Model Context Protocol) para conectar ao banco de dados "Lakehouse_Vendas". O objetivo é reduzir o tempo de consulta de SQL em 40%.
+
+3. Lema da Equipe:
+"Dedicação total a você e aos dados."
